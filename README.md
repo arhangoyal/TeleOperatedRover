@@ -6,6 +6,8 @@ Here are the instructions for building a gesture controlled rover (tele operated
 
 This project has applications in vehicle underbody inspection (for security or maintenance) and to fly drones.
 
+Please Note: The hyperlinked images and links can also be found in [TeleOperatedRover/imagesAndLinks.md](imagesAndLinks.md)
+
 
 ## Supplies required: <br />
 S.No. | Item | Quantity
