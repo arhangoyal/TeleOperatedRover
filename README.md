@@ -6,7 +6,9 @@ Here are the instructions for building a gesture controlled rover (tele operated
 
 This project has applications in vehicle underbody inspection (for security or maintenance) and to fly drones.
 
-Please Note: The hyperlinked images and links can also be found in [TeleOperatedRover/imagesAndLinks.md](imagesAndLinks.md)
+**Please Note:**
+- The hyperlinked images and links can also be found in [TeleOperatedRover/imagesAndLinks.md](imagesAndLinks.md)
+- I have used I2C communication. You can use SPI communication too but SPI communication's higher data transfer speeds will not be too useful given that the update/refresh rate of the gyroscope and the method of data transfer (RF) are very simple.
 
 
 ## Supplies required: <br />
