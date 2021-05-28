@@ -7,7 +7,7 @@ Here are the instructions for building a gesture controlled rover (tele operated
 This project has potential applications in vehicle underbody inspection (for security or maintenance) besides being eventually used to fly drones.
 
 Supplies required:
-	1. Arduino/Genuino UNO (with UNO cable) x2
+	1. Arduino/Genuino UNO (with UNO cable) x2 \n
 	2. Li-ion Battery (12V) x1
 	3. Jumper Wires (Male to male, male to female, female to female) x40 each
 	4. Breadboard x1
